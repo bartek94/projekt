@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Bartosz Wiktorowski EE-DI-P6
+=======
 Zarządzanie kodem źródłowym
 
 
@@ -22,6 +25,7 @@ projekt będzie przedstawiony jedynie w formie tekstu- nie będzie programem ze
 złożonym kodem w języku programistycznym.
 
 
+
 Terminarz:
 
 -   zapoznanie z działaniem systemów kontroli wersji (np. pojęcia branch, merge
@@ -42,3 +46,4 @@ Problemy:
 -   Git nie obsługuje pewnych formatów, między innymi Microsoft Office Word, w
     związku z tym swój projekt przedstawie za pomocą języka znaczników Markdown
     w programie Texts
+>>>>>>> develop
