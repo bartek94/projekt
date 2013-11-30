@@ -23,3 +23,11 @@ itp.)
 - tworzenie projektu
 
 - Analiza i wnioski
+
+
+
+Problemy:
+
+- Git nie obsługuje pewnych formatów, między innymi Microsoft Office Word, w
+związku z tym swój projekt przedstawie za pomocą języka znaczników Markdown  w
+programie Texts
