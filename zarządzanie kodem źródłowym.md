@@ -5,12 +5,15 @@ Zarządzanie kodem źródłowym
 Bartosz Wiktorowski EE-DI-P6
 
 
+
 Cel :
 
 Stworzenie projektu z wykorzystaniem dowolnego programu do zarządzania kodem
 źródłowym.
 
-Opis: W swojej pracy wykorzystam system kontroli wersji GIT będący wolnym
+Opis:
+
+W swojej pracy wykorzystam system kontroli wersji GIT będący wolnym
 oprogramowaniem na licencji GNU General Public License. Efekty swojej pracy będę
 zamieszczał  na hostingowym serwisie internetowym  https://github.com/ . Przy
 pracy będę korzystał z programu Git Extensions – graficznej wersji Git-a.
@@ -18,23 +21,25 @@ Dodatkowo będę używał programu KDiff pomocnym przy procesie merge-owania.  S
 projekt będzie przedstawiony jedynie w formie tekstu- nie będzie programem ze
 złożonym kodem w języku programistycznym.
 
+
+
 Terminarz:
 
-- zapoznanie z działaniem systemów kontroli wersji (np. pojęcia branch, merge
-itp.)
+-   zapoznanie z działaniem systemów kontroli wersji (np. pojęcia branch, merge
+    itp.)
 
-- zapoznanie ze środowiskiem GIT
+-   zapoznanie ze środowiskiem GIT
 
-- założenie konta na serwisie github.com, stworzenie repozytorium
+-   założenie konta na serwisie github.com, stworzenie repozytorium
 
-- tworzenie projektu
+-   tworzenie projektu
 
-- analiza i wnioski
+-   analiza i wnioski
 
 
 
 Problemy:
 
-- Git nie obsługuje pewnych formatów, między innymi Microsoft Office Word, w
-związku z tym swój projekt przedstawie za pomocą języka znaczników Markdown  w
-programie Texts
+-   Git nie obsługuje pewnych formatów, między innymi Microsoft Office Word, w
+    związku z tym swój projekt przedstawie za pomocą języka znaczników Markdown
+    w programie Texts
