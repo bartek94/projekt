@@ -6,14 +6,16 @@ Bartosz Wiktorowski EE-DI-P6
 
 
 
-Cel : Stworzenie projektu z wykorzystaniem dowolnego programu do zarządzania
-kodem źródłowym.
+Cel :
+
+Stworzenie projektu z wykorzystaniem dowolnego programu do zarządzania kodem
+źródłowym.
 
 
 
 Terminarz:
 
--zapoznanie z działaniem systemów kontroli wersji (np. pojęcia branch, merge
+- zapoznanie z działaniem systemów kontroli wersji (np. pojęcia branch, merge
 itp.)
 
 - zapoznanie ze środowiskiem GIT
@@ -22,7 +24,7 @@ itp.)
 
 - tworzenie projektu
 
-- Analiza i wnioski
+- analiza i wnioski
 
 
 
