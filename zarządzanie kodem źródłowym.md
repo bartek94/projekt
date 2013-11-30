@@ -26,15 +26,15 @@ złożonym kodem w języku programistycznym.
 Terminarz:
 
 -   zapoznanie z działaniem systemów kontroli wersji (np. pojęcia branch, merge
-    itp.)
+    itp.) (2h)
 
--   zapoznanie ze środowiskiem GIT
+-   zapoznanie ze środowiskiem GIT (3h)
 
--   założenie konta na serwisie github.com, stworzenie repozytorium
+-   założenie konta na serwisie github.com, stworzenie repozytorium (0.5h)
 
--   tworzenie projektu
+-   tworzenie projektu (5h)
 
--   analiza i wnioski
+-   analiza i wnioski (1h)
 
 
 
