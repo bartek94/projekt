@@ -51,4 +51,5 @@ Problemy:
     umieszczona jedynie jedna gałąź(Master), zamiana programu na SourceTree
     rozwiązuje problem
 
--   
+-   Przy próbie mergowanie występuje błąd niekompatybilności Kadiff3 z
+    SourceTree, zmiana programu Kadiff3 na P4merge
