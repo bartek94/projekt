@@ -16,10 +16,9 @@ Opis:
 W swojej pracy wykorzystam system kontroli wersji GIT będący wolnym
 oprogramowaniem na licencji GNU General Public License. Efekty swojej pracy będę
 zamieszczał  na hostingowym serwisie internetowym  https://github.com/ . Przy
-pracy będę korzystał z programu Git Extensions – graficznej wersji Git-a.
-Dodatkowo będę używał programu KDiff pomocnym przy procesie merge-owania.  Sam
-projekt będzie przedstawiony jedynie w formie tekstu- nie będzie programem ze
-złożonym kodem w języku programistycznym.
+pracy będę korzystał z graficznych wersji Git-a. Sam projekt będzie
+przedstawiony jedynie w formie tekstu- nie będzie programem ze złożonym kodem w
+języku programistycznym.
 
 
 Terminarz:
@@ -42,3 +41,20 @@ Problemy:
 -   Git nie obsługuje pewnych formatów, między innymi Microsoft Office Word, w
     związku z tym swój projekt przedstawie za pomocą języka znaczników Markdown
     w programie Texts
+
+-   Przy merge-owaniu dochodzi dochodzi do konfliktów, niezbędne jest
+    zastosowanie programu Kdiff3 będący narzędziem wspierającym Git-a,
+    umożliwiający wybór właściwej wersji oraz edycję
+
+-   Przy próbie umieszczenia projektu na serwerze hostingowym GitHub zostaje
+    umieszczona jedynie jedna gałąź(Master), zamiana programu na SourceTree
+    rozwiązuje problem
+
+-   Przy próbie mergowanie występuje błąd niekompatybilności Kadiff3 z
+    SourceTree, zmiana programu Kadiff3 na P4merge
+
+
+
+Wnioski:
+
+
