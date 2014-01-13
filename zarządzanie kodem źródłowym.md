@@ -53,3 +53,9 @@ Problemy:
 
 -   Przy próbie mergowanie występuje błąd niekompatybilności Kadiff3 z
     SourceTree, zmiana programu Kadiff3 na P4merge
+
+
+
+Wnioski:
+
+
