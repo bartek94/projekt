@@ -78,6 +78,12 @@ Problemy:
 
 
 
+-   Podczas próby zrzucenia projektu na portal github.com występuje błąd
+
+-   - Problem rozwiązuje zmiana nazwy autora bez wpisywania polskich znaków
+
+
+
 -   Przy próbie umieszczenia projektu na serwerze hostingowym GitHub zostaje
     umieszczona jedynie jedna gałąź(Master)
 
