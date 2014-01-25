@@ -39,10 +39,21 @@ Terminarz:
 
 Problemy:
 
+-   Git nie posiada sam w sobie jakiejkolwiek pomocy tłumaczącej istotę programu
+    oraz posługiwanie się nim
+
+-   - Na głównej stronie Git-a znajduje się rozbudowany opis działania programu
+    w wielu językach w tym również polskim
+
+
+
 -   Git nawet do tworzenia prostych projektów wymaga znajomości wielu komend
 
 -   - Istnieje wiele darmowych kompatybilnych z Git-em wersji graficznych tego
-    programu(Git Extensions, Source Tree)
+    programu (Git Extensions,SOurce Tree)
+
+-   - Zaznajomienie się z obsługą tych programów zwiększy nieco czas
+    przeznaczony na zapoznanie ze środowiskiem Git-a
 
 
 
@@ -55,12 +66,12 @@ Problemy:
 
 -   Plik w formacie notatnika(txt) pasiada bardzo ubogi system edycji tekstu
 
--   - Zmieniam format pliku na ".md" - języka znaczników Markdown , za pomocą
-    programu Texts
+-   - Zmieniam format pliku na ".md" - języka znaczników Markdown , korzystając
+    z programu Texts
 
 
 
--   Git nie jest w stanie właściwie merge-ować plików w przypadku konfliktów
+-   Git nie jest w stanie poprawnie merge-ować plików w przypadku konfliktów
 
 -   - Stosuję kompatybilny z Git-em program Kadiff3, będący narzędziem pomocnym
     przy samodzielnym mergowaniu
@@ -74,8 +85,16 @@ Problemy:
 
 
 
--   Przy próbie mergowanie występuje błąd niekompatybilności Kadiff3 z
-    SourceTree, zmiana programu Kadiff3 na P4merge
+-   Przy próbie mergowania do gałęzi "master" dochodzi do usuwania całego tekstu
+    i pliku źródłowego
+
+-   - problem znika przy zastosowaniu P4merge jako narzędzia do mergowania
+
+
+
+-   
+
+
 
 
 
