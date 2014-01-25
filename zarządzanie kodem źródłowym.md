@@ -39,17 +39,40 @@ Terminarz:
 
 Problemy:
 
--   Git nie obsługuje pewnych formatów, między innymi Microsoft Office Word, w
-    związku z tym swój projekt przedstawie za pomocą języka znaczników Markdown
-    w programie Texts
+-   Git nawet do tworzenia prostych projektów wymaga znajomości wielu komend
 
--   Przy merge-owaniu dochodzi dochodzi do konfliktów, niezbędne jest
-    zastosowanie programu Kdiff3 będący narzędziem wspierającym Git-a,
-    umożliwiający wybór właściwej wersji oraz edycję
+-   - Istnieje wiele darmowych kompatybilnych z Git-em wersji graficznych tego
+    programu(Git Extensions, Source Tree)
+
+
+
+-   Git nie obsługuje pewnych formatów, między innymi Windows-owego pakietu
+    Microsoft Office
+
+-   - Projekt wykonuję w tradycyjnym formacie txt
+
+
+
+-   Plik w formacie notatnika(txt) pasiada bardzo ubogi system edycji tekstu
+
+-   - Zmieniam format pliku na ".md" - języka znaczników Markdown , za pomocą
+    programu Texts
+
+
+
+-   Git nie jest w stanie właściwie merge-ować plików w przypadku konfliktów
+
+-   - Stosuję kompatybilny z Git-em program Kadiff3, będący narzędziem pomocnym
+    przy samodzielnym mergowaniu
+
+
 
 -   Przy próbie umieszczenia projektu na serwerze hostingowym GitHub zostaje
-    umieszczona jedynie jedna gałąź(Master), zamiana programu na SourceTree
-    rozwiązuje problem
+    umieszczona jedynie jedna gałąź(Master)
+
+-   - niezbędne jest przy "push-owaniu" wyodrębnienie każdej z gałęzi
+
+
 
 -   Przy próbie mergowanie występuje błąd niekompatybilności Kadiff3 z
     SourceTree, zmiana programu Kadiff3 na P4merge
