@@ -85,6 +85,21 @@ Problemy:
 
 
 
+-   Przy otwarciu pliku tekstowego okazuje się że Git nie czyta polskich znaków
+
+-   - niezbędny jest update Git Extansions do najnowszej wersji
+
+
+
+-   W momencie stworzenia nowej gałęzi(branch) usuwa się plik w
+    repozytorium(folder jest pusty)
+
+-   -ustawienia domyślne nie określają miejsca położenia pliku po zmianie
+    gałęzi, problem rozwiązuje zmiana o opcjach katalogu "projekt" na domyślne
+    repozytorium
+
+
+
 -   Git nie jest w stanie poprawnie merge-ować plików w przypadku konfliktów
 
 -   - Stosuję kompatybilny z Git-em program Kadiff3, będący narzędziem pomocnym
