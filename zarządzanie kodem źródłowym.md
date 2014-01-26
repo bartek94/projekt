@@ -78,6 +78,13 @@ Problemy:
 
 
 
+-   Przy merge-owaniu dochodzi od usunięcia pliku źródłowego z  wcześniejszego
+    commitu
+
+-   Problem nie narusza pracy projektu- plik tekstowy pozostaje bez zmian
+
+
+
 -   Podczas próby zrzucenia projektu na portal github.com występuje błąd
 
 -   - Problem rozwiązuje zmiana nazwy autora bez wpisywania polskich znaków
@@ -98,7 +105,11 @@ Problemy:
 
 
 
--   
+-   Tagi umieszczane za pomocą graficznej wersji nie są widoczne w wersji
+    umieszczonej na GitHub
+
+-   - widoczność tagów na stronie hostingowej jest możliwe tylko przez
+    umieszczeniu ich za pomocą GitGui lub Git Bash
 
 
 
