@@ -27,7 +27,7 @@ Terminarz:
 -   zapoznanie z działaniem systemów kontroli wersji (np. pojęcia branch, merge
     itp.) (2h)
 
--   zapoznanie ze środowiskiem GIT (3h)
+-   zapoznanie ze środowiskiem GIT (4h)
 
 -   założenie konta na serwisie github.com, stworzenie repozytorium (0.5h)
 
@@ -57,6 +57,20 @@ Problemy:
 
 
 
+-   W internecie nie ma instrukcji, tutoriali dotyczących obsługi Git Extensions
+    napisanych po polsku
+
+-   - Posiłkowanie się angielską wersją obsługi programu zwiększa czas
+    przeznaczony na projekt
+
+
+
+-   Git nie zezwala na stworzenie nowego repozytorium na pulpicie
+
+-   - Ponowne uruchomienie komputera rozwiązuje problem
+
+
+
 -   Git nie obsługuje pewnych formatów, między innymi Windows-owego pakietu
     Microsoft Office
 
@@ -68,6 +82,21 @@ Problemy:
 
 -   - Zmieniam format pliku na ".md" - języka znaczników Markdown , korzystając
     z programu Texts
+
+
+
+-   Przy otwarciu pliku tekstowego okazuje się że Git nie czyta polskich znaków
+
+-   - niezbędny jest update Git Extansions do najnowszej wersji
+
+
+
+-   W momencie stworzenia nowej gałęzi(branch) usuwa się plik w
+    repozytorium(folder jest pusty)
+
+-   -ustawienia domyślne nie określają miejsca położenia pliku po zmianie
+    gałęzi, problem rozwiązuje zmiana o opcjach katalogu "projekt" na domyślne
+    repozytorium
 
 
 
