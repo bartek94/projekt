@@ -27,7 +27,7 @@ Terminarz:
 -   zapoznanie z działaniem systemów kontroli wersji (np. pojęcia branch, merge
     itp.) (2h)
 
--   zapoznanie ze środowiskiem GIT (3h)
+-   zapoznanie ze środowiskiem GIT (4h)
 
 -   założenie konta na serwisie github.com, stworzenie repozytorium (0.5h)
 
@@ -54,6 +54,20 @@ Problemy:
 
 -   - Zaznajomienie się z obsługą tych programów zwiększy nieco czas
     przeznaczony na zapoznanie ze środowiskiem Git-a
+
+
+
+-   W internecie nie ma instrukcji, tutoriali dotyczących obsługi Git Extensions
+    napisanych po polsku
+
+-   - Posiłkowanie się angielską wersją obsługi programu zwiększa czas
+    przeznaczony na projekt
+
+
+
+-   Git nie zezwala na stworzenie nowego repozytorium na pulpicie
+
+-   - Ponowne uruchomienie komputera rozwiązuje problem
 
 
 
