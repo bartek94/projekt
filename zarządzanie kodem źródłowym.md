@@ -42,15 +42,15 @@ Problemy:
 -   Git nie posiada sam w sobie jakiejkolwiek pomocy tłumaczącej istotę programu
     oraz posługiwanie się nim
 
--   - Na głównej stronie Git-a znajduje się rozbudowany opis działania programu
-    w wielu językach w tym również polskim
+-   - na stronie git-scm.com znajduje się rozbudowany opis działania programu w
+    wielu językach w tym również polskim
 
 
 
 -   Git nawet do tworzenia prostych projektów wymaga znajomości wielu komend
 
 -   - Istnieje wiele darmowych kompatybilnych z Git-em wersji graficznych tego
-    programu (Git Extensions,SOurce Tree)
+    programu (Git Extensions,Source Tree)
 
 -   - Zaznajomienie się z obsługą tych programów zwiększy nieco czas
     przeznaczony na zapoznanie ze środowiskiem Git-a
@@ -72,19 +72,19 @@ Problemy:
 
 
 
--   Przy próbie uruchomienia GitBush okno komend otwiera się na sekundę po czym
+-   Przy próbie uruchomienia GitBash okno komend otwiera się na sekundę po czym
     znika
 
--   - by Git się uruchamiał potrzebne jest pobranie pliku msys-1.0.dll i
-    umieszczenie go w katalogu Git-a w folderze "bin"
+-   - by Git się uruchamiał potrzebne jest pobranie z internetu pliku
+    msys-1.0.dll i umieszczenie go w katalogu Git-a w folderze "bin"
 
--   
 
--   Przy próbie tworzenia projektu pojawia się problembrakującego na komputerze
+
+-   Przy próbie tworzenia projektu pojawia się problem brakującego na komputerze
     pliku libiconv2.dll
 
 -   - poszukiwany plik znajduje się w katalogu Git-a w folderze "bin", z pewnych
-    powodów nie jest jednak wykrywalny przez program, skopiowanie go do folderu
+    względów nie jest jednak wykrywalny przez program, skopiowanie go do folderu
     libexec/git-core usuwa błąd
 
 
@@ -126,8 +126,8 @@ Problemy:
 
 -   Git nie jest w stanie poprawnie merge-ować plików w przypadku konfliktów
 
--   - Stosuję kompatybilny z Git-em program Kadiff3, będący narzędziem pomocnym
-    przy samodzielnym mergowaniu
+-   - Stosuję współpracujący z graficznymi wersjami Git-a program Kadiff3,
+    będący narzędziem pomocnym przy samodzielnym merge-owaniu
 
 
 
@@ -136,11 +136,12 @@ Problemy:
 
 -   - problem nie narusza pracy projektu- plik tekstowy pozostaje bez zmian
 
--   - zmiana programu na SourceTree
+-   - zmiana programu na SourceTree, problem nie występuje
 
 
 
--   Podczas próby zrzucenia projektu na portal github.com występuje błąd
+-   Podczas próby zrzucenia projektu na portal github.com występuje błąd nazwy
+    autora
 
 -   - Problem rozwiązuje zmiana nazwy autora bez wpisywania polskich znaków
 
@@ -160,14 +161,6 @@ Problemy:
 
 
 
--   Tagi umieszczane za pomocą graficznej wersji nie są widoczne w wersji
-    umieszczonej na GitHub
-
--   - widoczność tagów na stronie hostingowej jest możliwe tylko przez
-    umieszczeniu ich za pomocą GitGui lub Git Bash
-
-
-
 -   P4merge dokonuje jedynie porównania ze sobą dwóch wersji projektu
 
 -   - niezbędna jest zmiana w ustawieniach poprzez ustawienie P4merge-a nie
@@ -176,10 +169,18 @@ Problemy:
 
 
 
+-   Tagi umieszczane za pomocą graficznej wersji nie są widoczne w wersji
+    umieszczonej na GitHub
+
+-   - widoczność tagów na stronie hostingowej jest możliwe tylko przez
+    umieszczeniu ich za pomocą komend w Git Bash
+
+
+
 -   Graficzna wersja Git-a - SourceTree dostępna jest w wersji trial, z
     możliwością korzystania bez licenicji przez okres dwóch tygodni
 
--   - Zarejstrowanie programu jest darmowe i trwa jedynie kilka minut, program
+-   - Zarejestrowanie programu jest darmowe i trwa jedynie kilka minut, program
     sam upomina się gdy okres próbny się kończy i przekierowywuje do rejestracji
 
 
