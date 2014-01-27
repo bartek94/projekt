@@ -147,7 +147,11 @@ Problemy:
 Wnioski:
 
 Systemy kontroli wersji to pożyteczne narzędzia przy pracy zespołowej jaki i
-również samodzielnej. Dużym atutem jest możliwość stałego obserwowania efektów
-pracy jak i również powrotu do dowolnego miejsca w czasie tworzenia projektu.
-Tworzenie gałęzi pobocznych umożliwia równoczesne realizowanie paru pomysłów
-oraz łączenie ich.
+również samodzielnej. Dają one możliwość stałego obserwowania efektów pracy jak
+i również powrotu do dowolnego miejsca w czasie tworzenia projektu. Tworzenie
+gałęzi pobocznych umożliwia równoczesne realizowanie paru pomysłów oraz łączenie
+ich. W przypadku korzystania z Git-a dużym atutem jest to, iż posiada on wiele
+graficznych wersji będących ułatwieniem w pracy - nie trzeba znać wielu komend,
+aby łatwo posługiwać się programem. W czasie tworzenia projektu najwięcej
+problemów sprawiło mi dostosowanie systemu kontroli wersji tak, aby działał bez
+zarzutów.
