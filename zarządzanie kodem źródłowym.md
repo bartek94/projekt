@@ -142,6 +142,25 @@ Problemy:
 
 
 
+-   P4merge dokonuje jedynie porównania ze sobą dwóch wersji projektu
+
+-   - niezbędna jest zmiana w ustawieniach poprzez ustawienie P4merge-a nie
+    tylko jako "External Diff Tool" ale również jako "Merge Tool" , SourceTree
+    domyślnie nie ustawia żadnego programu do ręcznego merge-owania
+
+
+
+-   Graficzna wersja Git-a - SourceTree dostępna jest w wersji trial, z
+    możliwością korzystania bez licenicji przez okres dwóch tygodni
+
+-   - Zarejstrowanie programu jest darmowe i trwa jedynie kilka minut
+
+
+
+-   
+
+
+
 
 
 Wnioski:
