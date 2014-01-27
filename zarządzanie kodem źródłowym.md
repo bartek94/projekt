@@ -146,4 +146,8 @@ Problemy:
 
 Wnioski:
 
-
+Systemy kontroli wersji to pożyteczne narzędzia przy pracy zespołowej jaki i
+również samodzielnej. Dużym atutem jest możliwość stałego obserwowania efektów
+pracy jak i również powrotu do dowolnego miejsca w czasie tworzenia projektu.
+Tworzenie gałęzi pobocznych umożliwia równoczesne realizowanie paru pomysłów
+oraz łączenie ich.
