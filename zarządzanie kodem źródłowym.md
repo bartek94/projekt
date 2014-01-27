@@ -65,6 +65,30 @@ Problemy:
 
 
 
+-   Programy Git-a (GitBash i GitGui) nie uruchamiają się
+
+-   - Ponieważ starsze wersje Git-a nie są kompatybilne z niektórymi systemami
+    Windows-a (np.XP) niezbędne jest pobranie najnowszej wersji Git-a
+
+
+
+-   Przy próbie uruchomienia GitBush okno komend otwiera się na sekundę po czym
+    znika
+
+-   - by Git się uruchamiał potrzebne jest pobranie pliku msys-1.0.dll i
+    umieszczenie go w katalogu Git-a w folderze "bin"
+
+-   
+
+-   Przy próbie tworzenia projektu pojawia się problembrakującego na komputerze
+    pliku libiconv2.dll
+
+-   - poszukiwany plik znajduje się w katalogu Git-a w folderze "bin", z pewnych
+    powodów nie jest jednak wykrywalny przez program, skopiowanie go do folderu
+    libexec/git-core usuwa błąd
+
+
+
 -   Git nie zezwala na stworzenie nowego repozytorium na pulpicie
 
 -   - Ponowne uruchomienie komputera rozwiązuje problem
@@ -164,5 +188,7 @@ Problemy:
 
 
 Wnioski:
+
+
 
 
