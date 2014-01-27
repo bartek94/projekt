@@ -134,7 +134,9 @@ Problemy:
 -   Przy merge-owaniu dochodzi od usunięcia pliku źródłowego z  wcześniejszego
     commitu
 
--   Problem nie narusza pracy projektu- plik tekstowy pozostaje bez zmian
+-   - problem nie narusza pracy projektu- plik tekstowy pozostaje bez zmian
+
+-   - zmiana programu na SourceTree
 
 
 
@@ -177,13 +179,21 @@ Problemy:
 -   Graficzna wersja Git-a - SourceTree dostępna jest w wersji trial, z
     możliwością korzystania bez licenicji przez okres dwóch tygodni
 
--   - Zarejstrowanie programu jest darmowe i trwa jedynie kilka minut
+-   - Zarejstrowanie programu jest darmowe i trwa jedynie kilka minut, program
+    sam upomina się gdy okres próbny się kończy i przekierowywuje do rejestracji
 
 
 
--   
+-   Przy próbie zrzucenia projektu na serwer github.com zrzucana zostaje jedynie
+    gałąź główna
+
+-   - przy "push-u" niezbędne jest wyodrębnienie każdej z gałęzi
 
 
+
+-   Push za pomocą SourceTree nie pokazuje na serwerze github.com tagów
+
+-   - w opcjach należy zaznaczyć zrzucanie tagów na serwer
 
 
 
